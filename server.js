@@ -37,6 +37,7 @@ board.on('ready', function () {
   });
 });
 
+/* this was just testing a socket */
 // io.on('connection', function() {
   // console.log('SOMEONE HAS CONNECTED!!!!!!');
   // io.sockets.emit('pizza', 'Hello from Node!');
